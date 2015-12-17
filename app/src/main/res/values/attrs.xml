@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="AdaptiveTagLayout">
+        <attr name="slot_count" format="integer"/>
+        <attr name="tag_margin" format="dimension"/>
+    </declare-styleable>
+</resources>
